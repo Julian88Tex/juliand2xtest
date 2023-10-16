@@ -1,0 +1,10 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        }
+    ],
+    "namespace": "julian-d2x-test",
+    "sourceApiVersion": "58.0"
+}
